@@ -1,0 +1,391 @@
+/Users/kellenalvarado/Music/Audio Music Apps/Plug-In Settings/Alchemy/Libraries/ImportBrowser/Favorites.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/test-exclude/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/jsesc/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/@stripe/stripe-react-native/android/proguard-rules.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/@jest/transform/node_modules/signal-exit/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/punycode/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/jsiexecutor/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/yoga/yoga/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/yoga/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/logger/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/cxxreact/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/jsi/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/jsi/jsi/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/devtoolsruntimesettings/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/reactperflogger/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/runtimeexecutor/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/hermes/inspector-modern/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/hermes/executor/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/jsinspector-modern/tracing/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/jsinspector-modern/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/callinvoker/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/jsc/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/nativemodule/core/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/nativemodule/idlecallbacks/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/nativemodule/microtasks/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/nativemodule/samples/platform/android/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/nativemodule/devtoolsruntimesettings/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/nativemodule/defaults/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/nativemodule/dom/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/nativemodule/featureflags/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/imagemanager/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/core/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/mounting/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/mapbuffer/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/element/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/scheduler/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/attributedstring/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/textlayoutmanager/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/consistency/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/leakchecker/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/runtimescheduler/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/components/safeareaview/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/components/scrollview/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/components/textinput/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/components/unimplementedview/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/components/progressbar/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/components/image/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/components/view/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/components/switch/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/components/root/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/components/text/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/components/modal/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/components/legacyviewmanagerinterop/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/dom/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/componentregistry/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/componentregistry/native/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/telemetry/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/graphics/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/observers/events/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/animations/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/debug/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/uimanager/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/renderer/uimanager/consistency/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/runtime/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/runtime/nativeviewconfig/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/runtime/hermes/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/utils/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/timing/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/bridging/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/featureflags/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/performance/timeline/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/react/debug/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactCommon/jserrorhandler/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni-lib-merge/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fbgloginit/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/first-party/yogajni/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/first-party/hermes/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/third-party/fast_float/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/third-party/boost/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/third-party/fmt/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/third-party/glog/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/third-party/double-conversion/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/third-party/folly/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/jsctooling/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/jscexecutor/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/mapbuffer/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/runtime/hermes/jni/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/runtime/jni/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/runtime/jsc/jni/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/runtime/cxxreactpackage/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/newarchdefaults/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/turbomodule/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/devsupport/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/reactperflogger/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/fabric/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/hermes/tooling/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/hermes/reactexecutor/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/hermes/instrumentation/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/featureflags/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/reactnativeblob/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native/ReactAndroid/src/main/jni/react/uimanager/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/signal-exit/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/wrap-ansi/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/regexpu-core/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/unicode-match-property-ecmascript/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/tslib/CopyrightNotice.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/tslib/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/write-file-atomic/node_modules/signal-exit/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/yargs-parser/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/readline/test/fixtures/file-in-win1251.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/readline/test/fixtures/nmbr.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/readline/test/fixtures/afile.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/regenerate/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/setimmediate/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/whatwg-url/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/regjsgen/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/deepmerge/license.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/@isaacs/cliui/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/whatwg-url-without-unicode/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/regjsparser/node_modules/jsesc/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-devtools-core/dist/standalone.js.LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/unicode-match-property-value-ecmascript/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/expo-modules-core/android/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/expo-modules-core/android/src/fabric/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/@expo/bunyan/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/unicode-canonical-property-names-ecmascript/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/restore-cursor/node_modules/signal-exit/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/cliui/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/cliui/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/unicode-property-aliases-ecmascript/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/node-dir/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/yargs/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/@protobufjs/utf8/tests/data/utf8.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/execa/node_modules/signal-exit/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native-screens/android/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/react-native-gesture-handler/android/src/main/jni/CMakeLists.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/string-width-cjs/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/mkdirp/bin/usage.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/node_modules/regenerate-unicode-properties/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/test-exclude/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/jsesc/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/limiter/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/signal-exit/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/v8-to-istanbul/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/tslib/CopyrightNotice.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/tslib/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/yargs-parser/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/whatwg-url/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/deepmerge/license.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/html-escaper/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/buffer-equal-constant-time/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/cliui/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/exit/test/fixtures/1000-stdout.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/exit/test/fixtures/100-stdout-stderr.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/exit/test/fixtures/1000-stdout-stderr.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/exit/test/fixtures/10-stderr.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/exit/test/fixtures/100-stderr.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/exit/test/fixtures/1000-stderr.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/exit/test/fixtures/10-stdout-stderr.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/exit/test/fixtures/10-stdout.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/exit/test/fixtures/100-stdout.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/@protobufjs/utf8/tests/data/utf8.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/nodemon/doc/cli/topics.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/nodemon/doc/cli/whoami.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/nodemon/doc/cli/config.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/nodemon/doc/cli/help.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/nodemon/doc/cli/logo.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/nodemon/doc/cli/authors.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/nodemon/doc/cli/usage.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/nodemon/doc/cli/options.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/@bcoe/v8-coverage/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/backend/backend/node_modules/limiter/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/backend/backend/node_modules/tslib/CopyrightNotice.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/backend/backend/node_modules/tslib/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/backend/backend/node_modules/yargs-parser/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/backend/backend/node_modules/whatwg-url/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/backend/backend/node_modules/buffer-equal-constant-time/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/backend/backend/node_modules/cliui/LICENSE.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/backend/backend/node_modules/@protobufjs/utf8/tests/data/utf8.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/backend/backend/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/kellenalvarado/Desktop/Chewsr_App/backend/output.txt
+/Users/kellenalvarado/Library/Application Support/Firefox/Profiles/mj5zarad.default-release/pkcs11.txt
+/Users/kellenalvarado/Library/Application Support/Firefox/Profiles/mj5zarad.default-release/AlternateServices.txt
+/Users/kellenalvarado/Library/Application Support/Firefox/Profiles/mj5zarad.default-release/serviceworker.txt
+/Users/kellenalvarado/Library/Application Support/Firefox/Profiles/mj5zarad.default-release/gmp-widevinecdm/4.10.2557.0/LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Firefox/Profiles/mj5zarad.default-release/SiteSecurityServiceState.txt
+/Users/kellenalvarado/Library/Application Support/Firefox/Profiles/mj5zarad.default-release/cert_override.txt
+/Users/kellenalvarado/Library/Application Support/Firefox/Profiles/iuiis2fi.default-release-1/pkcs11.txt
+/Users/kellenalvarado/Library/Application Support/Firefox/Profiles/iuiis2fi.default-release-1/SiteSecurityServiceState.txt
+/Users/kellenalvarado/Library/Application Support/SyncServices/Local/clientdata/120c2b27e9ab530b442181ced8799e35b30c85cb/clientname.txt
+/Users/kellenalvarado/Library/Application Support/SyncServices/Local/clientdata/633a1ba25cb8241bbde44acb603ee1e822cde772/clientname.txt
+/Users/kellenalvarado/Library/Application Support/Anki2/README.txt
+/Users/kellenalvarado/Library/Application Support/Cursor/User/workspaceStorage/3f6072b8bae66f181b96e687e6288fad/anysphere.cursor-retrieval/embeddable_files.txt
+/Users/kellenalvarado/Library/Application Support/Cursor/User/workspaceStorage/3f6072b8bae66f181b96e687e6288fad/anysphere.cursor-retrieval/high_level_folder_description.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/screen_ai/127.19/files_list_main_content_extraction.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/screen_ai/127.19/files_list_ocr.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/screen_ai/127.21/files_list_main_content_extraction.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/screen_ai/127.21/files_list_ocr.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 7/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1094/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1237/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1095/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1262/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1050/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/964/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1035/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1176/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1125/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1177/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1138/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1249/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1223/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1270/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1089/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1277/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1267/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1235/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1000/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1257/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1143/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1120/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1151/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1168/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1135/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1288/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/WebStorage/1216/CacheStorage/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/5625bd90cb136e1fd0d446655499ad2a1781a024/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/f5f88fd7dc3b5ee4c6bdbc1c2d5fc7a97292d7d0/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/6f03effda8f5ed0eb82ab86e571659b602494b45/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/448124daccd0345a938712298d729cd894d33f8f/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/ecf92520dfab37aa65ccb41f672b6631e562a835/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/a48de970e5666a27e5a4debf52d59922261e756d/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/4cc699dd486af2551d01b1a74abd5337c6e052e5/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/932032a80e5d6dbbe1e3fbfca2e5d5728cfb7142/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/bfaeb59486396eed9d92017d1b603e59ce130a62/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/95d5169806c20b5feff87f0e6f9e44ac2bcd4efb/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/eadf114e35641d8a14aa9648d8e1c01b4b3bb3f0/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/28da9c56fde4021055a681112c092453f74d8dd8/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/cd71c7f6b4f227c09de32c3cca5cc60b20dc5f45/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/7ec291ecfc39ec445885bdf69c41a518f2d14494/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/51835928b58dcaeee7172815157cf05a2c0d6771/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/5dceb26707589a12745ce1cbbdbc2c7773a2f2fb/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/833bf8f08efe83b2c5e5c8a89d0cd1ae8f5bc0b4/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/2fcb906910518ef6e5924234a02d7d62f6f54aca/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/ddaf5df5f7fa9d5b0d7bdfb3162f4138158277b1/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/42b87cd95b70e5b9c480b41080696ee76bb1888f/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/97b145bdfea308e26840b96ef53ee4b363dd4117/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/7ca851be3b8a83857345c4c51cb71013fad3831f/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/571988c4897ef87c20ec4d6b13878cf6c36e1caf/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/02664f4d94fb43013c5b788e07422ee9aca3442a/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/d613279a8881816596278e79cf6bb924e495a1e2/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/2cf4a62019f557c0c5d9891168445e366b03ac94/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/693d2e7c06a22c902046a5c679e7a6e06308117d/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/cb4cec5068ed0e69d68bf243a7ba941c58b8e296/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/2772b8f9fb869284c2b5a990100cb8f1c7fd6925/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/cca3f0d9ad2c35cb718c129cd3407b7abf527ae2/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/9eba8557e65c5ceaa763b8a6f9f192aa97e1f9ba/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/e4bf828fc1c981dbeb789979d921a9b00c40b6d0/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/ac287265b5566210d2ef7236b2901fe13f3340b5/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/76ef9e5953a1ba4578548bb32235240a9f0e0ca2/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/d3f4778886098fd54296f586f474e15474d4787b/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/c3e3ab12671d0a3f8975489a5249205bc9b1b1f7/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/c9af6c6b0cfefa1dc434f80e6005da68356bbdcb/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/f408d72760346174a3495f2988b0601f21bd7b02/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/926e6487aa083d59d0749cbcfdf85cbc248386a4/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/dd58c003b6b3bce4fe3b4622e2308320df9a81ed/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/319715dd4237f2fb9c1ec0c333355d8bd03551c9/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/6a9c2bf256c0d93453e25a76284989e6d2273723/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/d1394a4c842f7861ad7ae5e20da4b484a0c4acad/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/8999b99403b64c13687d8caf3735aea26cd22409/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/c11ae81d57afa0385d189aac5b8586f0785f3105/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/b1b6489ebe5cde78b55db6add80adf01491d0b38/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/59849e521188ca644ad11da3b63c1083a12be301/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/4ec500e04e5b2ce3479e54e2494e8f987594435f/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/48b31a669d09bd50dae537ca713d33ecfbcb2864/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/0e9bd73b23906ea9a418bdfbbb45ef7ffb939ead/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/5a05b1282ea8cba3e1ccaced30db83ce9ff511de/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/fc89b88a58f944b7e4b476612dda3cad3a23ebe4/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/b8757d2a42ea09a43f8cfa20a065bad317f4e1e6/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/6199946ba47a28dfc60be4f7e2ddbb8845109ad1/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/aaf0f7e379811f6b35eb04148b77cdeb2c876361/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/8cbb992fe0cd9ef960e69a214646bd270516a23e/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/21ada30591f996271303a6877817f544686f6b64/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/9cf2ba3a9a5210bcbaeef71dc10cbf5b07276568/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/7eafdaabd9da9250317ae13d8f54f1751cbc9094/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/24fa5f97c48cd7b03f5f1c044d2eb398a05ebb01/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/50a4a222f9ccc3e69449ffa8b73700c122d56663/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/dd73886f4d85c9c5042f3596764a561075f84a59/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/3a8bb8c97eb2a317252af450810f794cbcb7c0d5/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/26579032c0130d76200e93b22982023120a4f9a3/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/89e92bacd1eddcf0d4d946575dbd96798a705865/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/a32e31d999fd2b98721d664fa4d1f9c72b7e8737/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/f2ed7f294d0ba9f7f3093684cd0700a821e20748/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/68af1b324f1234c86402e542b77e7bedd7bfbebb/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/bf33d2d39521f463a5cdb6f858d1228e36eb65f9/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/199bf09d192492e7941a63256b757a2d286a3cad/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/cdfba763077567da6c549b0a9d8a0678b1ee65da/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/343b82990fa24ad640e7ce6ebfe31bc546062c3b/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/549436032551caccb761f7453489e52a4d0ee4f3/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/355690543901cc08c45dface808d8446dd9e58ee/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/19f7f765e8fec372900240700faada077eed5eeb/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/78678612ec198af21ddae4d9099a5cf8728bee75/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/1ba000ec2cec543c4e27228d4cd4aef8ae1e8408/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/397e5d81bdb71a423054f3b5524da80fc3c2e3bb/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/bmnlcjabgnpnenekpadlanbbkooimhnj/17.0.4_0/h1-honeyscience-main-popover.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/bmnlcjabgnpnenekpadlanbbkooimhnj/17.0.4_0/h1-popover.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/bmnlcjabgnpnenekpadlanbbkooimhnj/17.0.4_0/h1-searchEngine.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/bmnlcjabgnpnenekpadlanbbkooimhnj/17.0.4_0/h0.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/bmnlcjabgnpnenekpadlanbbkooimhnj/17.0.4_0/h1-main.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/bmnlcjabgnpnenekpadlanbbkooimhnj/17.0.4_0/h1-vendors-main-popover.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/bmnlcjabgnpnenekpadlanbbkooimhnj/17.0.4_0/h2.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/bmnlcjabgnpnenekpadlanbbkooimhnj/17.0.4_0/h1-check.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/bmnlcjabgnpnenekpadlanbbkooimhnj/17.0.2_0/h1-honeyscience-main-popover.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/bmnlcjabgnpnenekpadlanbbkooimhnj/17.0.2_0/h1-popover.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/bmnlcjabgnpnenekpadlanbbkooimhnj/17.0.2_0/h1-searchEngine.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/bmnlcjabgnpnenekpadlanbbkooimhnj/17.0.2_0/h0.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/bmnlcjabgnpnenekpadlanbbkooimhnj/17.0.2_0/h1-main.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/bmnlcjabgnpnenekpadlanbbkooimhnj/17.0.2_0/h1-vendors-main-popover.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/bmnlcjabgnpnenekpadlanbbkooimhnj/17.0.2_0/h2.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/bmnlcjabgnpnenekpadlanbbkooimhnj/17.0.2_0/h1-check.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/oocalimimngaihdkbihfgmpkcpnmlaoa/5.1.3_0/web/version.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/kbfnbcaeplbcioakkpcpgfkobkghlhen/14.1226.0_0/src/js/Grammarly-check.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/kbfnbcaeplbcioakkpcpgfkobkghlhen/14.1226.0_0/src/js/9514.vendors.chunk.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/kbfnbcaeplbcioakkpcpgfkobkghlhen/14.1226.0_0/src/js/Grammarly-sidePanel.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/kbfnbcaeplbcioakkpcpgfkobkghlhen/14.1226.0_0/src/js/Grammarly-debug.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/kbfnbcaeplbcioakkpcpgfkobkghlhen/14.1226.0_0/src/js/9536.vendors.chunk.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/kbfnbcaeplbcioakkpcpgfkobkghlhen/14.1226.0_0/src/js/6943.vendors.chunk.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/kbfnbcaeplbcioakkpcpgfkobkghlhen/14.1226.0_0/src/js/Grammarly-gDocsIframeCs.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/kbfnbcaeplbcioakkpcpgfkobkghlhen/14.1226.0_0/src/js/Grammarly-bg.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/kbfnbcaeplbcioakkpcpgfkobkghlhen/14.1226.0_0/src/js/Grammarly-gDocs.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/kbfnbcaeplbcioakkpcpgfkobkghlhen/14.1226.0_0/src/js/Grammarly.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/kbfnbcaeplbcioakkpcpgfkobkghlhen/14.1226.0_0/src/js/4123.vendors.chunk.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/kbfnbcaeplbcioakkpcpgfkobkghlhen/14.1226.0_0/src/js/3637.vendors.chunk.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/kbfnbcaeplbcioakkpcpgfkobkghlhen/14.1226.0_0/src/js/Grammarly-popup.js.LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/4.0.4_0/web_accessible_resources/noop.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/4.0.4_0/css/fonts/Inter/LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Default/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/4.0.4_0/LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/ZxcvbnData/3/male_names.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/ZxcvbnData/3/english_wikipedia.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/ZxcvbnData/3/female_names.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/ZxcvbnData/3/passwords.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/ZxcvbnData/3/us_tv_and_film.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/ZxcvbnData/3/surnames.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 4/Service Worker/CacheStorage/2f3d9ac4a48a19e9b38f408e952556c99f68c915/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 4/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 4/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/3.1.7_0/web_accessible_resources/imported.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 4/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/3.1.7_0/web_accessible_resources/README.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 4/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/3.1.7_0/web_accessible_resources/to-import.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 4/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/3.1.7_0/web_accessible_resources/7e270994feadd29c8f6cfe846ab7769c.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 4/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/3.1.7_0/css/fonts/OFL.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 4/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/3.1.7_0/img/fontawesome/LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 4/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/3.1.7_0/LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 3/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 3/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/2.4.1_0/html/assets/ublock/filters.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 3/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/2.4.1_0/html/assets/ublock/experimental.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 3/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/2.4.1_0/html/assets/ublock/unbreak.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 3/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/2.4.1_0/html/assets/ublock/privacy.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 3/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/2.4.1_0/html/assets/ublock/badware.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 3/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/2.4.1_0/html/assets/ublock/resources.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Subresource Filter/Unindexed Rules/9.55.0/LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/System Profile/optimization_guide_prediction_model_downloads/03cd538d-4b8f-4f84-b06f-9db9a17b6c7f/VERSION.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 2/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/index.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 2/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/3.0.37_0/web_accessible_resources/imported.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 2/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/3.0.37_0/web_accessible_resources/README.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 2/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/3.0.37_0/web_accessible_resources/to-import.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 2/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/3.0.37_0/css/fonts/OFL.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 2/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/3.0.37_0/img/fontawesome/LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 2/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/3.0.37_0/LICENSE.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 5/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/2.4.1_0/html/assets/ublock/filters.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 5/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/2.4.1_0/html/assets/ublock/experimental.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 5/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/2.4.1_0/html/assets/ublock/unbreak.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 5/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/2.4.1_0/html/assets/ublock/privacy.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 5/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/2.4.1_0/html/assets/ublock/badware.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/Profile 5/Extensions/hnmpcagpplmpfojmgmnngilcnanddlhb/2.4.1_0/html/assets/ublock/resources.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/chrome_shutdown_ms.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/optimization_guide_model_store/24/E6DC4029A1E4B4C1/6C9718B9FA78E34E/vocab_en-us.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/optimization_guide_model_store/24/E6DC4029A1E4B4C1/6C9718B9FA78E34E/enus_denylist_encoded_241007.txt
+/Users/kellenalvarado/Library/Application Support/Google/Chrome/optimization_guide_model_store/15/E6DC4029A1E4B4C1/71FA5737F8449CC3/VERSION.txt
+/Users/kellenalvarado/Library/
