@@ -39,4 +39,5 @@ app-example
 
 # 🔐 Firebase credentials - DO NOT COMMIT
 backend/config/firebase-service-account.json
+backend/config/firebase-service-account_backup.json
 backend/digginit-64c40-firebase-adminsdk-*.json 
