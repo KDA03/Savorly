@@ -6,21 +6,14 @@ require('dotenv').config(); // Load environment variables
 console.log("🛠️ Loading Firebase Admin SDK...");
 
 // ✅ Load Firebase Credentials
-const serviceAccount = {
-    projectId: process.env.FIREBASE_PROJECT_ID,
-    clientEmail: process.env.FIREBASE_CLIENT_EMAIL,
-    privateKey: process.env.FIREBASE_PRIVATE_KEY.replace(/\\n/g, '\n'),
-};
+const serviceAccount = require('./digginit-64c40-firebase-adminsdk-fbsvc-9cc009be84.json');
 
-// ✅ Initialize Firebase Admin (Prevent Multiple Initializations)
-if (!admin.apps.length) {
-    admin.initializeApp({
-        credential: admin.credential.cert(serviceAccount),
-    });
-    console.log("✅ Firebase Admin initialized successfully.");
-} else {
-    console.log("⚠️ Firebase Admin already initialized.");
-}
+admin.initializeApp({
+  credential: admin.credential.cert(serviceAccount),
+});
+
+console.log("✅ Firebase Admin initialized successfully.");
+
 
 const db = admin.firestore();
 

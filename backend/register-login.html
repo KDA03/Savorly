@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>DigginIt Auth</title>
+</head>
+<body>
+  <h1>🔥 DigginIt - Beta Auth</h1>
+
+  <h2>Register</h2>
+  <input id="regEmail" type="email" placeholder="Email">
+  <input id="regPassword" type="password" placeholder="Password">
+  <button id="registerBtn">Register</button>
+
+  <h2>Login</h2>
+  <input id="logEmail" type="email" placeholder="Email">
+  <input id="logPassword" type="password" placeholder="Password">
+  <button id="loginBtn">Login</button>
+
+  <h2>Profile</h2>
+  <button onclick="getProfile()">Get My Profile</button>
+
+  <h2>Logout</h2>
+  <button onclick="logout()">Logout</button>
+
+  <h2>Forgot Password?</h2>
+  <input id="resetEmail" type="email" placeholder="Enter your email">
+  <button onclick="resetPassword()">Reset Password</button>
+
+  <h3 id="status"></h3>
+
+  <!-- ✅ Firebase SDKs -->
+  <script 
+src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+  <script 
+src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const firebaseConfig = {
+        apiKey: "AIzaSyA94SDdt_haVQw4209CpEtWtNCJv3WmLv0",
+        authDomain: "digginit-64c40.firebaseapp.com",
+        projectId: "digginit-64c40",
+        storageBucket: "digginit-64c40.appspot.com",
+        messagingSenderId: "929285318029",
+        appId: "1:929285318029:web:dfa7f6ba09cd0bf647c9c4"
+      };
+
+      firebase.initializeApp(firebaseConfig);
+      const auth = firebase.auth();
+
+      async function register() {
+        const email = document.getElementById('regEmail').value;
+        const password = document.getElementById('regPassword').value;
+        try {
+          const userCredential = await auth.createUserWithEmailAndPassword(email, password);
+          const token = await userCredential.user.getIdToken();
+          localStorage.setItem("token", token);
+          document.getElementById('status').innerText = "✅ Registered. Token saved.";
+          console.log("Token:", token);
+        } catch (err) {
+          document.getElementById('status').innerText = "❌ Register Failed: " + err.message;
+        }
+      }
+
+      async function login() {
+        const email = document.getElementById('logEmail').value;
+        const password = document.getElementById('logPassword').value;
+        try {
+          const userCredential = await auth.signInWithEmailAndPassword(email, password);
+          const token = await userCredential.user.getIdToken();
+          localStorage.setItem("token", token);
+          document.getElementById('status').innerText = "✅ Logged in. Token saved.";
+          console.log("Token:", token);
+        } catch (err) {
+          document.getElementById('status').innerText = "❌ Login Failed: " + err.message;
+        }
+      }
+
+      function logout() {
+        auth.signOut().then(() => {
+          localStorage.removeItem("token");
+          document.getElementById('status').innerText = "👋 Logged out.";
+          console.log("✅ Logged out.");
+        }).catch((err) => {
+          document.getElementById('status').innerText = "❌ Logout failed: " + err.message;
+        });
+      }
+
+      function resetPassword() {
+        const email = document.getElementById('resetEmail').value;
+        auth.sendPasswordResetEmail(email)
+          .then(() => {
+            document.getElementById('status').innerText = "📧 Reset email sent!";
+          })
+          .catch((err) => {
+            document.getElementById('status').innerText = "❌ Reset failed: " + err.message;
+          });
+      }
+
+      function getProfile() {
+        const user = auth.currentUser;
+        if (user) {
+          document.getElementById('status').innerText = `✅ Logged in as: ${user.email}`;
+        } else {
+          document.getElementById('status').innerText = "❌ No user is logged in.";
+        }
+      }
+
+      document.getElementById('registerBtn').addEventListener('click', register);
+      document.getElementById('loginBtn').addEventListener('click', login);
+    });
+  </script>
+</body>
+</html>
+
